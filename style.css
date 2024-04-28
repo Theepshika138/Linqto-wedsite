@@ -1,0 +1,221 @@
+.container{
+    width: 1400px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+header{
+    padding: 0px 0px;
+    box-shadow: 0px 2px 1px rgb(243, 227, 227);
+}
+.logo{
+    width: 180px;
+    height: auto;
+}
+.header_nav{
+    width: 200px;
+    margin-top: 45px;
+    margin-left: 400px;
+    
+    
+}
+.header_nav a{
+    text-decoration: none;
+    color: rgba(11, 1, 2, 0.929);
+    margin: 0px 5px;
+    font-weight: 500;
+    font-size: 15px;
+    
+}
+.header_btn{
+    margin-top: 45px;
+    margin-left: 200px;
+    width: 250px;
+}
+.header_btn a{
+    margin: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+.header_btn_one{
+    color: black;
+}
+.header_btn_one:hover{
+    color: blue;
+}
+.header_btn_two{
+    background-color: blue;
+    color: white;
+}
+.header_btn_two:hover{
+    background-color:rgb(10, 115, 220);
+}
+.tittle_one{
+    width: 40%;
+    
+    margin-left: 200px;
+    margin-top: 90px;
+    
+}
+.tittle_one h1{
+    width: 700px;
+    font-size: 45px;
+    font-weight: 400;
+}
+.tittle_one p{
+    font-size: 17px;
+}
+.tittle_two{
+    margin-top: 100px;
+    width: 40%;
+}
+
+.tittle_btn_one {
+    color: black;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 1px solid rgb(161, 154, 154);
+    box-shadow: 0px 1px 10px rgb(167, 158, 158);
+    width: 350px;
+    height: 50px;
+    background-color: rgb(242, 234, 234);
+
+
+}
+.tittle_btn_two{
+    color: black;
+    font-size: 18px;
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid rgb(167, 149, 149) ;
+    box-shadow: 1px 1px 10px rgb(190, 174, 174);
+    
+}
+.tittle_btn p{
+    color: rgb(54, 48, 48);
+    font-size: 20px;
+    margin-left: 150px;
+
+}
+.content p{
+    color: rgb(52, 48, 48);
+     
+
+}
+.rectangular{
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid black;
+
+
+}
+.rectangularsmall{
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+    
+}
+.content_one p{
+    margin-left: 70px;
+    margin-top: 1px;
+    font-size: 20px;
+
+}
+.color{
+    color: blue;
+}
+.content_two{
+
+    margin-right: 70px;
+}
+.square_btn{
+    margin-left: 50px;
+    width: 200px;
+}
+.btn{
+    
+    font-size: 20px;
+    color: white;
+    box-shadow: 0px 1px 1px rgb(168, 168, 250);
+    background-color: rgb(56, 50, 249);
+    width: 400px;
+    height: 50px;
+    border: 5px;
+    border-radius: 15px;
+    border: 1px solid blue;
+}
+.btn:hover{
+    box-shadow: 0px 5px 10px rgb(51, 147, 221);
+}
+.content_three{
+    margin-left: 70px;
+    margin-top: 30px;
+
+
+}
+.signin{
+    color: blue;
+
+}
+.example2{
+    background-color: rgb(13, 16, 97);
+    color: white;
+    
+}
+.sec_one{
+    width: 40%;
+    margin-left: 100px;
+}
+.sec_one img{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+.logo_im{
+    margin-top: 80px;
+    width: 100px;
+    margin-left: 9px;  
+}
+.sec_one h1{
+    font-size: 40px;
+    margin-top: 80px;
+    margin-left: 150px;
+}
+.cl{
+    
+    font-size: 17px;
+    color: white;
+}
+.sec_one p{
+    font-size: 18px;
+    color: rgba(235, 233, 233, 0.682);
+}
+.sec_two{
+    width: 15%;
+    margin-top: 190px;
+    margin-left: 100px;
+}
+.sec_two h2{
+    color: white;
+}
+.sec_two h3{
+    color: rgb(199, 190, 190);
+}
+.sec_three{
+    width: 15%;
+    margin-top: 190px;
+    margin-left: 100px;
+}
+.sec_two h2{
+    color: white;
+}
+.sec_three h3{
+    color: rgb(199,190,190);
+}
